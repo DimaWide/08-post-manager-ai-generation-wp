@@ -1,0 +1,1 @@
+# 08-post-manager-ai-generation-wp
